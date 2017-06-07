@@ -1,0 +1,25 @@
+
+
+body {
+	background: url('http://i.imgur.com/WAiQlgj.jpg'); no repeat; 
+	background-size: cover;
+	font-family: baskerville;
+	font-style: italic;
+	color:white;
+	font-weight: bold;
+	font-variant: small-caps;
+	
+	
+	}
+	
+ul li a{
+		margin: auto;
+	padding: 0px;
+list-style: none;
+color: brown; }
+
+img { 
+position: absolute;
+z-index:-1;
+margin-left: 100 px; 
+}
